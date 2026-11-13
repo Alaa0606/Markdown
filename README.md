@@ -1,10 +1,9 @@
 # Markdown
 
 # Vad är Markdown?
-Markdown är ett snabbt och lätt sätt att formatera text med hjälp av vanliga tecken, till exemple #,* och -.
+Markdown är ett så kallat märkspråk som används för att strukturera och formatera text. Det innebär att man kan skapa exempelvis rubriker, punktlistor, tabeller och fetstil utan att behöva använda en massa avancerade verktyg.
 
-# Vad används de till?
-Man kan använda Markdown för att skapa, Rubriker, underrubriker, text, fetstil, kursiv ock tabeller utan att behöva använda World eller HTML:
+Det som gör Markdown användbart är att man skriver med vanliga tecken på tangentbordet, och de tecknen bestämmer sedan hur texten ska visas
 
 ## Guide på Markdown
 *  Rubrik 1 (#)
