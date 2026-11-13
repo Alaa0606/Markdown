@@ -10,7 +10,7 @@ Man kan använda Markdown för att skapa, Rubriker, underrubriker, text, fetstil
 *  Rubrik 1 (#)
 *  Underrubrik (##/###)
 *  Bild = ! (option 8 = [ ]) ()
-*  Punktlista ( shift ' = * )
+  För att lägga in en bild använder man först ett utropstecken, sedan hakparenteser och till sist vanliga parenteser.*  Punktlista ( shift ' = * )
   För att skapa en punklista skriver man en stjärna förljt av ett mellanslag framför varje punkt.
 *  Kursivtext ( shift ' = *Kursivtext* )
   För att ska kursivstil sätter man en stjärna före och efter texten. 
