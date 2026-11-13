@@ -11,9 +11,13 @@ Man kan använda Markdown för att skapa, Rubriker, underrubriker, text, fetstil
 *  Underrubrik (##/###)
 *  Bild = ! (option 8 = [ ]) ()
 *  Punktlista ( shift ' = * )
+  För att skapa en punklista skriver man en stjärna förljt av ett mellanslag framför varje punkt.
 *  Kursivtext ( shift ' = *Kursivtext* )
+  För att ska kursivstil sätter man en stjärna före och efter texten. 
 *  Fettext ( shift ' ' = *Fettext** )
+  För att ska fetstill sätter man två stjärnor före och efter texten.
 *  Tabel ( option 7 = | | )
+ I Markdown kan man skapa tabeller med hjälp av lodräta streck, alltså |, och bindestreck.
 
 ##
 ## 
