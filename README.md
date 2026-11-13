@@ -25,7 +25,7 @@ Det som gör Markdown användbart är att man skriver med vanliga tecken på tan
 ## Underrubrik
 Paragraftext
 
-**Paragraftext i bold** 
+**Paragraftext i fettext** 
 
 *Paragraftext i kursiv*
 
